@@ -1,0 +1,4 @@
+git coomands 
+git add
+git push
+git pull
